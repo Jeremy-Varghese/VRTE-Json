@@ -1,0 +1,65 @@
+{
+  "id": "hospital-ransomware-v2",
+  "title": "Hospital Ransomware Crisis (TTS Enabled)",
+  "timeline": [
+    {
+      "id": "intro-ceo",
+      "type": "Audio",
+      "speaker": "CEO",
+      "text": "Thank you all for joining on such short notice. We are facing a serious cyber incident affecting hospital operations.",
+      "audioAssetId": "ceo_intro",
+      "voice": {
+        "profile": "ceo-calm",
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    },
+    {
+      "id": "q1",
+      "type": "Question",
+      "speaker": "System",
+      "text": "What values are at stake in this incident, and who are the key stakeholders?",
+      "voice": {
+        "profile": "system-default",
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    },
+    {
+      "id": "q2",
+      "type": "Question",
+      "speaker": "System",
+      "text": "What are the major uncertainties at this stage, and how would you reduce them?",
+      "voice": {
+        "profile": "system-default",
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    },
+    {
+      "id": "apply-score",
+      "type": "ScoreGate"
+    },
+    {
+      "id": "news-video-1",
+      "type": "Video",
+      "assetId": "news_clip_1"
+    },
+    {
+      "id": "pause-after-news",
+      "type": "Delay",
+      "delaySeconds": 10
+    },
+    {
+      "id": "q3",
+      "type": "Question",
+      "speaker": "System",
+      "text": "Given the situation, what actions should leadership take in the next two hours?",
+      "voice": {
+        "profile": "system-default",
+        "speed": 1.0,
+        "pitch": 1.0
+      }
+    }
+  ]
+}
