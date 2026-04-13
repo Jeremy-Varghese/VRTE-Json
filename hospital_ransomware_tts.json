@@ -6,19 +6,19 @@
       "id": "intro-ceo",
       "type": "Audio",
       "speaker": "CEO",
-      "audioAssetId": "ceo_intro"
+      "assetId": "ceo1"
     },
     {
       "id": "q1",
       "type": "Question",
       "speaker": "System",
-      "audioAssetId": "system_q1"
+      "assetId": "q1"
     },
     {
       "id": "q2",
       "type": "Question",
       "speaker": "System",
-      "audioAssetId": "system_q2"
+      "assetId": "q2"
     },
     {
       "id": "apply-score",
@@ -27,7 +27,7 @@
     {
       "id": "news-video-1",
       "type": "Video",
-      "assetId": "news_clip_1"
+      "assetId": "news_clip_2"
     },
     {
       "id": "pause-after-news",
@@ -38,7 +38,7 @@
       "id": "q3",
       "type": "Question",
       "speaker": "System",
-      "audioAssetId": "system_q3"
+      "assetId": "q3"
     }
   ]
 }
