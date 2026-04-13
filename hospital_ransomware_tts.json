@@ -6,19 +6,19 @@
       "id": "intro-ceo",
       "type": "Audio",
       "speaker": "CEO",
-      "assetId": "ceo1"
+      "audioAssetId": "ceo1"
     },
     {
       "id": "q1",
       "type": "Question",
       "speaker": "System",
-      "assetId": "q1"
+      "audioAssetId": "q1"
     },
     {
       "id": "q2",
       "type": "Question",
       "speaker": "System",
-      "assetId": "q2"
+      "audioAssetId": "q2"
     },
     {
       "id": "apply-score",
@@ -38,7 +38,7 @@
       "id": "q3",
       "type": "Question",
       "speaker": "System",
-      "assetId": "q3"
+      "audioAssetId": "q3"
     }
   ]
 }
